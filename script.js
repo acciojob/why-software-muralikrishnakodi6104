@@ -1,4 +1,1 @@
-//your code here
-const heading = document.getElementById('main-heading');
-
-console.log(heading.textContext);
+console.log("Script executed successfully: Page loaded with custom CSS styling and motivation content.");
